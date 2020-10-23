@@ -6,3 +6,4 @@
 
   Manfaat yang diberikan *TensorFlow* untuk pengembangan *machine learning* adalah *abstraction*. Ini dikarenakan *developer* tidak perlu mengurusi seluk beluk implementasi suatu algoritma atau mencari cara yang tepat dalam menghubungkan *output* dari satu fungsi kepada fungsi lainnya, sehingga *developer* dapat fokus pada *logic* dari aplikasinya dan menyerahkan urusan detilnya kepada *TensorFlow* yang akan menanganinya dari balik layar.
 	
+Link project Klasifikasi Gambar Pakaian: https://github.com/sam-marhaendra/Image-Classification_Klasifikasi-Gambar-Pakaian
